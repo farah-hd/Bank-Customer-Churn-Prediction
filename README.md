@@ -54,7 +54,7 @@ Raw Data → Cleaning → Feature Engineering → EDA → Modeling → Evaluatio
 | Dummy Baseline      | 0.500   | 0.000            |
 | K-Nearest Neighbors | ~0.76   | ~0.52            |
 | Logistic Regression | ~0.77   | ~0.55            |
-| Random Forest ✅     | ~0.86   | ~0.63            |
+| Random Forest       | ~0.86   | ~0.63            |
 
 ## 6. Evaluation
 
